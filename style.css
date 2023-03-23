@@ -1,0 +1,106 @@
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+.bg {
+  background-color: rgb(198, 183, 131);
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.ok {
+  color: aquamarine;
+  font-size: medium;
+}
+
+.btnmo {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.NOBORDER {
+  border: none;
+  border-width: 0;
+
+}
+
+h2 {
+  color: rgb(198, 183, 131);
+
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.popover {
+  color: rgb(144, 23, 2);
+  border: 1px solid red;
+}
+
+.blue input{
+ color: rgb(61, 61, 255);
+
+}
+
+.green input{
+  color: rgb(244, 119, 16);
+}
+
+.btn-primary {
+  color: white;
+
+}
+
+.btn-primary:hover {
+  background-color: RoyalBlue;
+  border: 1px solid white;
+}
+
+.changebet {
+  text-decoration: none;
+}
+
+.changebet:hover {
+  color: blue;
+  letter-spacing: 2px;
+
+
+}
+
+h5 {
+  color: blueviolet;
+}
+
+.reg {
+  padding: 15px 30px;
+  border: 2px solid rgb(179, 134, 9);
+  border-radius: 25px;
+}
+
+.carousel-item {
+  min-height: 710px;
+}
+
+.ttg {
+  min-width: 100px;
+}
+
+.carousel-control-prev-icon {
+  margin-left: -70px;
+}
+
+.carousel-control-next-icon {
+  margin-right: -50px;
+}
+.ramka{
+  border: 2px solid rgb(155, 105, 11);
+  border-radius: 15px;
+  padding-top: 25px;
+  
+ 
+}
